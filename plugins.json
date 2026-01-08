@@ -1,7 +1,7 @@
 [
     {
         "Name": "SuMemo Uploader",
-        "InternalName": "SuMemoUploader",
+        "InternalName": "MemoUploader",
         "Author": "Haku",
         "Punchline": "帮助你实时显示、记录部分高难副本的进度",
         "Description": "将你的高难战斗记录自动同步到酥卷（进度记录平台）",
