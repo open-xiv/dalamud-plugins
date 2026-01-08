@@ -1,22 +1,20 @@
 [
     {
         "Name": "SuMemo Uploader",
-        "InternalName": "MemoUploader",
+        "InternalName": "SuMemoUploader",
         "Author": "Haku",
-        "AssemblyVersion": "0.0.1.0",
-        "Punchline": "帮助你实时显示、记录、查询他人部分副本的进度",
-        "Description": "由酥卷提供技术支持",
+        "Punchline": "帮助你实时显示、记录部分高难副本的进度",
+        "Description": "将你的高难战斗记录自动同步到酥卷（进度记录平台）",
         "ApplicableVersion": "any",
         "Tags": [
             "sumemo",
             "haku"
         ],
-        "DalamudApiLevel": 12,
-        "LoadPriority": 0,
-        "AcceptsFeedback": true,
+        "DalamudApiLevel": 14,
         "RepoUrl": "https://github.com/open-xiv/dalamud-plugins",
-        "IconUrl": "https://avatars.githubusercontent.com/u/127674473",
+        "IconUrl": "https://assets.sumemo.dev/sumemo.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/open-xiv/dalamud-plugins/main/plugins/memo-uploader.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/open-xiv/dalamud-plugins/main/plugins/memo-uploader.zip"
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/open-xiv/dalamud-plugins/main/plugins/memo-uploader.zip",
+        "AssemblyVersion": "7.4.1"
     }
 ]
