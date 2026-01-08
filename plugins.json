@@ -15,6 +15,6 @@
         "IconUrl": "https://assets.sumemo.dev/sumemo.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/open-xiv/dalamud-plugins/main/plugins/memo-uploader.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/open-xiv/dalamud-plugins/main/plugins/memo-uploader.zip",
-        "AssemblyVersion": "7.4.1"
+        "AssemblyVersion": "7.4.2"
     }
 ]
