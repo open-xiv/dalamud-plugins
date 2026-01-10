@@ -13,8 +13,8 @@
         "DalamudApiLevel": 14,
         "RepoUrl": "https://github.com/open-xiv/dalamud-plugins",
         "IconUrl": "https://assets.sumemo.dev/sumemo.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/open-xiv/dalamud-plugins/main/plugins/memo-uploader.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/open-xiv/dalamud-plugins/main/plugins/memo-uploader.zip",
-        "AssemblyVersion": "7.4.2"
+        "DownloadLinkInstall": "https://github.com/open-xiv/memo-uploader/releases/download/v7.4.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/open-xiv/memo-uploader/releases/download/v7.4.3/latest.zip",
+        "AssemblyVersion": "7.4.3"
     }
 ]
